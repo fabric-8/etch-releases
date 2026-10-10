@@ -2,6 +2,30 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "build": "405",
+      "version": "0.1.405",
+      "publishedAt": "2026-10-10T22:20:03.500362Z",
+      "minimumSystemVersion": "26.0",
+      "changes": [
+        "Updated Etch's bundled app and integrations."
+      ],
+      "schemaRevision": 2,
+      "schemaFingerprint": "92eae623106951070a06eb3453670bc44e98b729000cd0ece98bb1f1ac0396ac",
+      "sourceFingerprint": "3cc27455e63af4abb2622f605067d6a5ecdca035548014177802fb5e3f63406c",
+      "archive": {
+        "name": "Etch-0.1.405-build-405.zip",
+        "length": 87822765,
+        "sha256": "95f865ca5c5a1d8d382b4c763ab73ca715bdb8d0f44fdfba468c8c9f3fa5f56f",
+        "signature": "33higgnTDyXW7bC/I9sppHTOPkToAqhlkTobGhz6ByIgCDBK/h33gqUsrq97M/Fc6kD9/tKWcJ7dRhbTyNB5AQ=="
+      },
+      "dmg": {
+        "name": "Etch-0.1.405-build-405.dmg",
+        "length": 92293464,
+        "sha256": "3cbe92915eb0aaf2ab3bdb987650363a7502589f57092af96ffde00e4a7b6e73",
+        "signature": "rVi0cDfXMgX1iWCqnWEy5S/goopLsEyfIDv2SFRZiqc3HuiIFyN5MMX8oJupCvU3hJ2XjpWKQzU31mOSjNzKDw=="
+      }
+    },
+    {
       "build": "404",
       "version": "0.1.404",
       "publishedAt": "2026-10-10T21:35:53.018384Z",

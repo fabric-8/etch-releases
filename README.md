@@ -1,4 +1,4 @@
-[Download Etch 0.1.404 for macOS](https://github.com/fabric-8/etch-releases/releases/download/build-404/Etch-0.1.404-build-404.dmg)
+[Download Etch 0.1.405 for macOS](https://github.com/fabric-8/etch-releases/releases/download/build-405/Etch-0.1.405-build-405.dmg)
 
 # Install and update Etch
 
@@ -59,3 +59,9 @@ first installation. An app update does not sign into accounts on your behalf.
 If the update check fails while offline, try again when connected. If an update
 cannot be installed, quit Etch and install the latest DMG into Applications.
 Do not delete your Application Support folder to fix an update.
+
+On the Mac where you develop Etch, use the updater for the app you use day to day.
+`scripts/run.sh` builds the repository's development version and replaces the same
+Applications copy; that version connects to CloudKit Development. Use the script
+when you deliberately want to run a development build. To return to the distributed
+app and CloudKit Production, install the current DMG again.

@@ -2,6 +2,31 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "build": "406",
+      "version": "0.1.406",
+      "publishedAt": "2026-10-11T06:09:50.956787Z",
+      "minimumSystemVersion": "26.0",
+      "changes": [
+        "Retain check results while scheduling.",
+        "Restore calendar connection in signed releases."
+      ],
+      "schemaRevision": 2,
+      "schemaFingerprint": "92eae623106951070a06eb3453670bc44e98b729000cd0ece98bb1f1ac0396ac",
+      "sourceFingerprint": "0f4845e5fb0343071938b119751e4565fe770bd675fb2e7fd912500cac3548ab",
+      "archive": {
+        "name": "Etch-0.1.406-build-406.zip",
+        "length": 87823406,
+        "sha256": "bed429d213174ad60492dbd23e8f91ec96f67f9fa8f03c3c15a28780bda21148",
+        "signature": "TnKlMtIy2IYPbyY0P+hMS/A0rh9Mset+mWw9+h7j3pXis76UO7vyVfKoGxhXR+T55vXKq9JV4w54Or7wMAMJBQ=="
+      },
+      "dmg": {
+        "name": "Etch-0.1.406-build-406.dmg",
+        "length": 92293825,
+        "sha256": "a9491e0d48111a0dbeffd03ee842b441aa68cc128d8b6655b351bede8b0d9d1c",
+        "signature": "zOa0iDeQUJ3msA8Vqeykjdke2tI41Jv6LBtmGTgRPq+G6ChhzNBNiGOn3q7HL7eKBB7QxeBOsKpvMi9DrST3Aw=="
+      }
+    },
+    {
       "build": "405",
       "version": "0.1.405",
       "publishedAt": "2026-10-10T22:20:03.500362Z",

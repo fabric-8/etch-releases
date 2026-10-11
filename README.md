@@ -1,4 +1,4 @@
-[Download Etch 0.1.405 for macOS](https://github.com/fabric-8/etch-releases/releases/download/build-405/Etch-0.1.405-build-405.dmg)
+[Download Etch 0.1.406 for macOS](https://github.com/fabric-8/etch-releases/releases/download/build-406/Etch-0.1.406-build-406.dmg)
 
 # Install and update Etch
 

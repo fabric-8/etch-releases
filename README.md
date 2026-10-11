@@ -1,4 +1,4 @@
-[Download Etch 0.1.406 for macOS](https://github.com/fabric-8/etch-releases/releases/download/build-406/Etch-0.1.406-build-406.dmg)
+[Download Etch 0.1.407 for macOS](https://github.com/fabric-8/etch-releases/releases/download/build-407/Etch-0.1.407-build-407.dmg)
 
 # Install and update Etch
 
@@ -24,6 +24,11 @@ For sync, sign into your Apple Account in System Settings and enable iCloud Driv
 Settings → Sync reports Etch's connection. Use the same Apple Account on both Macs
 to share Etch data and the Etch project folder in iCloud Drive. Etch also works
 locally when iCloud is unavailable.
+
+On a Mac that is new to Etch, let the initial iCloud download restore your existing
+workspace. A new, empty account gets starter life areas after that check completes.
+While offline, you can plan in Inbox and create your own life areas immediately.
+If the initial download is interrupted, use Settings → Sync → Retry Sync.
 
 For agents and synthesis, install Claude Code using its setup guide at
 https://code.claude.com/docs/en/setup and sign into your own account. In Etch,

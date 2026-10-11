@@ -2,6 +2,30 @@
   "schemaVersion": 1,
   "releases": [
     {
+      "build": "407",
+      "version": "0.1.407",
+      "publishedAt": "2026-10-11T06:59:46.265463Z",
+      "minimumSystemVersion": "26.0",
+      "changes": [
+        "Restore iCloud before seeding a new Mac."
+      ],
+      "schemaRevision": 2,
+      "schemaFingerprint": "92eae623106951070a06eb3453670bc44e98b729000cd0ece98bb1f1ac0396ac",
+      "sourceFingerprint": "7fd8c001cd52260a2f692ed5aacad720cc5fe938d3c20576fa01a6ba2eb52cb6",
+      "archive": {
+        "name": "Etch-0.1.407-build-407.zip",
+        "length": 87840143,
+        "sha256": "6ad7f7d40535d82cdbf17a300be076c4d1297c4be303b6ff60b423dc6a8f96a3",
+        "signature": "7qqepfyA3TwfgyiAst2AgssGw6jSYNHSszhpMiRCjzTVWiWF1udLY5PR/PzwtaPXgmSpHfF3QhyAQURkkPzJBg=="
+      },
+      "dmg": {
+        "name": "Etch-0.1.407-build-407.dmg",
+        "length": 93003487,
+        "sha256": "a41edd7db04a61942cf0fdc302fd4cd5fe2df26ea7ef21bd9fae2cbbf7ceb0b8",
+        "signature": "s+GR2ZEQM2xxL4Y6e2tFRGDZKg0Nj8Fqqc7/VngkslOwM57jAHEZ7RkdF+M8vxWH/qikaMcLIoas2d6KsFohCQ=="
+      }
+    },
+    {
       "build": "406",
       "version": "0.1.406",
       "publishedAt": "2026-10-11T06:09:50.956787Z",
